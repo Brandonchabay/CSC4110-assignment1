@@ -4,7 +4,7 @@
   
 using namespace std; 
   
-// main function - 
+// main function - yay
 // where the execution of program begins 
 int main() 
 { 
